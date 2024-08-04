@@ -5,10 +5,11 @@ Maintainer: 360xbx
 Depends: mobilesubstrate, firmware (>= 7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/nodelete-ai.akemi.appsyncunified.deb
-Size: 860
+Size: 58440
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: This is a sample old package. Firmware should be highier than 7.0.
 Name: Appsync Unified
 Author: 360xbx
-Depiction: 
+Depiction: https://akeminotwork.github.io/360xbx/depictions/?p=com.supermamon.oldpackage
+
 
